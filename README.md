@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (Please check out the updated version in the main-repo)
 <p></p>
 <h2>Getting Started</h2> 
@@ -23,3 +24,6 @@ Other - </br>
 <p></p>
 <img src="./project.png" alt="Project">
 
+=======
+# NFT-real-estate
+>>>>>>> 57fda2908937ff0e5a9a906c86e639d2785b79ad
